@@ -1,0 +1,6 @@
+Selection Sort:
+Time complexity
+Avarage Case : O(n^2)
+Worst Case : O(n^2)
+Space complexity: O(1)
+
